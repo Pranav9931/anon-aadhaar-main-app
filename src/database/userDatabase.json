@@ -1,0 +1,42 @@
+{
+    "data" : [
+        {
+            "userAvatar": "https://user-images.githubusercontent.com/64951792/232249909-534d01c0-c48d-4d7c-990e-13f603357668.jpeg",
+            "name": "PRANAV KUMAR",
+            "aadhaar": "2871 7640 XXXX",
+            "epic": "AB12CXXX",
+            "hasBookedSlot": false,
+            "state": "Bihar",
+            "district": "Nawada",
+            "constituency": "Nawada",
+            "slots": [{}],
+            "uuid": "1a2b3c4d-5e6f-7g8h-9i0j-k1l2m3n4o5p"
+        },
+        {
+            "userAvatar": "https://user-images.githubusercontent.com/64951792/232250113-da96ec2c-230f-4944-83fe-0359f66be4c5.jpeg",
+            "name": "SARVOTTAM MISHRA",
+            "aadhaar": "2871 7640 XXXX",
+            "epic": "AB12CXXX",
+            "hasBookedSlot": false,
+            "state": "Karnataka",
+            "district": "Bangalore",
+            "constituency": "Bangalore South",
+            "slots": [{}],
+            "uuid": "6q7r8s9t-0u1v-2w3x-4y5z-a6b7c8d9e0f"
+        },
+        {
+            "userAvatar": "https://user-images.githubusercontent.com/64951792/232250113-da96ec2c-230f-4944-83fe-0359f66be4c5.jpeg",
+            "name": "SARVOTTAM MISHRA",
+            "aadhaar": "2871 7640 XXXX",
+            "epic": "AB12CXXX",
+            "hasBookedSlot": true,
+            "state": "Karnataka",
+            "district": "Bangalore",
+            "constituency": "Bangalore South",
+            "slots": [{
+                "id": 2
+            }],
+            "uuid": "6q7r8s9t-0u1v-2w3x-4y5z-a6b7c8d9e2e"
+        }
+    ]
+}

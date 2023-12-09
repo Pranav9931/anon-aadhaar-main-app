@@ -1,0 +1,50 @@
+/* Slider */
+.slick-slider {
+    margin-bottom: 0;
+    position: relative;
+  }
+  
+  /* Dots */
+  .slick-dots {
+    position: absolute;
+    bottom: 20px;
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: auto;
+  }
+  
+  .slick-dots li {
+    margin: 0 5px;
+  }
+  
+  .slick-dots li button {
+    display: block;
+    width: 10px;
+    height: 10px;
+    padding: 0;
+    border: none;
+    background-color: #bbb;
+    border-radius: 50%;
+    font-size: 0;
+    line-height: 0;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+  }
+  
+  .slick-dots li button:hover,
+  .slick-dots li button:focus {
+    opacity: 0.8;
+    outline: none;
+  }
+  
+  .slick-dots li.slick-active button {
+    background-color: #000;
+    opacity: 1;
+  }
+  
