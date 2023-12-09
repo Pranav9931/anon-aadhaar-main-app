@@ -1,0 +1,97 @@
+{
+    "data": [
+        {
+          "id": "f41c6406-6427-4b87-8b7d-2d6eb7457eb3",
+          "electionName": "Lok Sabha Elections 2024",
+          "isLive": false,
+          "isDigiVoterEligible": true,
+          "coverImage": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/201905/generalelections2019e-660_051919073342.jpg?size=948:533",
+          "desc": "The Lok Sabha Elections of 2024 is a significant political event in India, where citizens will elect their representatives to the lower house of Parliament. With over 900 million eligible voters, it is one of the largest democratic exercises in the world. The outcome of the elections will determine the future direction of the country and impact its citizens for years to come.",
+          "isState": false,
+          "votingDates": [
+            {
+              "date": "April 11, 2024",
+              "phase": "1"
+            },
+            {
+              "date": "April 18, 2024",
+              "phase": "2"
+            },
+            {
+              "date": "April 23, 2024",
+              "phase": "3"
+            },
+            {
+              "date": "April 29, 2024",
+              "phase": "4"
+            },
+            {
+              "date": "May 6, 2024",
+              "phase": "5"
+            },
+            {
+              "date": "May 12, 2024",
+              "phase": "6"
+            },
+            {
+              "date": "May 19, 2024",
+              "phase": "7"
+            }
+          ]
+        },
+        {
+          "id": "163e0e81-70c3-469a-bbd2-1b88f81b15f9",
+          "electionName": "Karnataka Assembly Elections 2023",
+          "isLive": true,
+          "isDigiVoterEligible": true,
+          "coverImage": "https://images.newindianexpress.com/uploads/user/imagelibrary/2023/3/22/w900X450/karnatakla.jpg?w=900&dpr=1.0",
+          "desc": "The Karnataka Assembly Elections of 2023 is an important political event in the state of Karnataka, where voters will choose their representatives to the state legislative assembly. With over 30 million eligible voters, it is a crucial exercise in democracy. The election outcome will impact the state's future development and policies. The election campaign will witness intense competition between major political parties, each vying to win the hearts and minds of the people.",
+          "isState": true,
+          "votingDates": [
+            {
+              "date": "April 22, 2023",
+              "phase": "1"
+            },
+            {
+              "date": "April 29, 2023",
+              "phase": "2"
+            },
+            {
+              "date": "May 6, 2023",
+              "phase": "3"
+            },
+            {
+              "date": "May 10, 2023",
+              "phase": "4"
+            }
+          ]
+        },
+        {
+            "id": "7f828b22-8996-4aa5-9743-7a39ec23c4b7",
+            "electionName": "Bihar Assembly Elections 2025",
+            "isLive": false,
+            "isDigiVoterEligible": false,
+            "coverImage": "https://resize.indiatvnews.com/en/resize/newbucket/730_-/2020/09/whatsapp-image-2020-09-25-at-12-1601018630.jpeg",
+            "desc": "The Bihar Assembly Elections of 2025 is a significant political event in the state of Bihar, where voters will elect their representatives to the state legislative assembly. With over 70 million eligible voters, it is one of the largest state-level democratic exercises in India. The outcome of the elections will determine the future course of the state's development and policies. The election campaign will see intense competition among major political parties, each trying to woo the electorate with their agendas and promises.",
+            "isState": true,
+            "votingDates": [
+              {
+                "date": "April 22, 2023",
+                "phase": "1"
+              },
+              {
+                "date": "April 29, 2023",
+                "phase": "2"
+              },
+              {
+                "date": "May 6, 2023",
+                "phase": "3"
+              },
+              {
+                "date": "May 10, 2023",
+                "phase": "4"
+              }
+            ]
+          }
+      ]
+}
